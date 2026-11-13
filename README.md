@@ -1,4 +1,4 @@
-# Create T3 App
+firebaseConfig.tsSECURITY.mdOracleJava/25/Dockerfile.ol9curl https://download.oracle.com/java/27/latest/jdk-27_linux-x64_bin.tar.gzhttps://download.oracle.com/java/27/latest/jdk-27_linux-x64_bin.tar.gzhttps://download.oracle.com/java/27/latest/jdk-27_linux-x64_bin.tar.gz.sha256# Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
